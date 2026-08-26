@@ -22,6 +22,18 @@
    ========================================================= */
 
 const SCRIPTS = [
+   {
+  title: 'Steal A Egg Speed Hub',
+  game: 'Steal A Egg',
+  desc: 'Check it yourself/Cek sendiri',
+  executor: 'Any (semua bisa)',
+  keySystem: 'Key',
+  time: 'baru saja',
+  verified: true,
+  color: 'blue',
+  thumbnail: 'https://files.catbox.moe/y4qy67.png',
+  loadstring: 'loadstring(game:HttpGet("https://raw.githubusercontent.com/AhmadV99/Speed-Hub-X/main/Speed%20Hub%20X.lua", true))()'
+},
   // Sengaja dikosongin — semua script di sini nanti diupload sendiri
   // sama admin lewat tombol "+ Upload Script" di halaman.
   //
