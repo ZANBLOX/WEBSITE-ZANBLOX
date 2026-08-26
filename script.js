@@ -22,7 +22,7 @@
    ========================================================= */
 
 const SCRIPTS = [
-   {
+  {
   title: 'Steal A Egg Speed Hub',
   game: 'Steal A Egg',
   desc: 'Check it yourself/Cek sendiri',
