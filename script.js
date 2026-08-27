@@ -16,6 +16,18 @@
 const SCRIPTS = [
   // tempel di sini
    {
+  title: 'Script Steal A Egg | Night hub',
+  game: 'Steal A Egg',
+  desc: 'Script ini no key/keylles',
+  executor: 'Any ( semua bisa)',
+  keySystem: 'Tidak',
+  time: 'baru saja',
+  verified: true,
+  color: 'blue',
+  thumbnail: 'https://files.catbox.moe/uwre00.png',
+  loadstring: 'loadstring(game:HttpGet("https://raw.githubusercontent.com/WhiteX1208/Scripts/refs/heads/main/StealAnEggs.luau"))()'
+},
+   {
   title: 'Script Steal A Egg Speed Hub',
   game: 'Steal A Egg',
   desc: 'vitur vitur bagus cek sendiri',
