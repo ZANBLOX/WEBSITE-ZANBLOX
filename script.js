@@ -30,9 +30,9 @@ const SCRIPTS = [
    {
   title: 'Script Steal A Egg | Night hub',
   game: 'Steal A Egg',
-  desc: 'Script ini no key/keylles',
+  desc: 'remove',
   executor: 'Any ( semua bisa)',
-  keySystem: 'Tidak',
+  keySystem: 'Key',
   time: 'baru saja',
   verified: true,
   color: 'blue',
