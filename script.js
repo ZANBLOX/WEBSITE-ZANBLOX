@@ -16,6 +16,18 @@
 const SCRIPTS = [
   // tempel di sini
    {
+  title: 'Script Steal A Egg | Nasi rendang hub',
+  game: 'Steal A Egg',
+  desc: 'Auto steal egg dll',
+  executor: 'Any ( semua bisa)',
+  keySystem: 'Key',
+  time: 'baru saja',
+  verified: true,
+  color: 'orange',
+  thumbnail: 'https://files.catbox.moe/86dnot.png',
+  loadstring: 'loadstring(game:HttpGet("https://raw.githubusercontent.com/JualNasiRendang/loader/refs/heads/main/main.lua"))()'
+},
+   {
   title: 'Script Steal A Egg | Night hub',
   game: 'Steal A Egg',
   desc: 'Script ini no key/keylles',
