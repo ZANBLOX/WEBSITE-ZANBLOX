@@ -16,6 +16,19 @@
 const SCRIPTS = [
   // tempel di sini
    {
+  title: 'Script Steal A Egg | Fyy Hub',
+  game: 'Steal A Egg',
+  desc: 'Vitur banyak cek sendiri',
+  executor: 'Any ( semua bisa)',
+  keySystem: 'No',
+  time: 'baru saja',
+  uploadedAt: 1788359487617,
+  verified: true,
+  color: 'orange',
+  thumbnail: 'https://files.catbox.moe/hyrvpl.png',
+  loadstring: 'loadstring(game:HttpGet("https://FyyCommunity.my.id"))()'
+},
+  {
   title: 'Script Steal A Egg | Nasi rendang hub',
   game: 'Steal A Egg',
   desc: 'Auto steal egg dll',
