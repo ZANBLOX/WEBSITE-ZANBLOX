@@ -16,6 +16,19 @@
 const SCRIPTS = [
   // tempel di sini
    {
+  title: 'Script Steal A Egg | Foxname',
+  game: 'Steal A Egg',
+  desc: 'vitur vitur lumayan untuk no key , dan settingan speed untuk steal egg nya saran ku di angka 400 agar tidak kepental',
+  executor: 'Any ( semua bisa)',
+  keySystem: 'No key',
+  time: 'baru saja',
+  uploadedAt: 1788442716927,
+  verified: true,
+  color: 'blue',
+  thumbnail: 'https://files.catbox.moe/pisc7q.png',
+  loadstring: 'loadstring(game:HttpGet("https://raw.githubusercontent.com/caomod2077/Script/refs/heads/main/Fn-stealanegg.lua"))()'
+},
+   {
   title: 'Script Steal A Egg | Fyy Hub',
   game: 'Steal A Egg',
   desc: 'Vitur banyak cek sendiri',
