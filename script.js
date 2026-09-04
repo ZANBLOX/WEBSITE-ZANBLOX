@@ -16,6 +16,19 @@
 const SCRIPTS = [
   // tempel di sini
    {
+  title: 'Script Steal A Egg | Miranda hub',
+  game: 'Steal A Egg',
+  desc: 'Script instan tp',
+  executor: 'Any ( semua bisa)',
+  keySystem: 'No key',
+  time: 'baru saja',
+  uploadedAt: 1788527051279,
+  verified: true,
+  color: 'pink',
+  thumbnail: 'https://files.catbox.moe/zmzb0d.png',
+  loadstring: 'loadstring(game:HttpGet("https://raw.githubusercontent.com/miirandahub/loader/refs/heads/main/stealaegg"))()'
+},
+   {
   title: 'Script Steal A Egg | Foxname',
   game: 'Steal A Egg',
   desc: 'vitur vitur lumayan untuk no key , dan settingan speed untuk steal egg nya saran ku di angka 400 agar tidak kepental',
